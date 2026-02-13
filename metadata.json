@@ -1,0 +1,9 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "name": "بوابة وزارة العدل السودانية | العدلية",
+  "description": "المنصة السيادية الموحدة لجمهورية السودان"
+}

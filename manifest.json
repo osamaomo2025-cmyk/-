@@ -1,0 +1,45 @@
+
+{
+  "short_name": "العدلية",
+  "name": "بوابة العدالة الرقمية",
+  "description": "المنصة الرسمية للخدمات العدلية والقضائية الرقمية",
+  "id": "/?source=pwa",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#354F69",
+  "background_color": "#ffffff",
+  "dir": "rtl",
+  "lang": "ar",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=1000&auto=format&fit=crop",
+      "sizes": "1000x600",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "واجهة البوابة العدلية على الكمبيوتر"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1505664194779-8beaceb93744?q=80&w=1000&auto=format&fit=crop",
+      "sizes": "1000x600",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "واجهة البوابة العدلية على الجوال"
+    }
+  ]
+}
